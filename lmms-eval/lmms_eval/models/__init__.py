@@ -73,6 +73,7 @@ AVAILABLE_MODELS = {
     "whisper": "Whisper",
     "whisper_vllm": "WhisperVllm",
     "vora": "VoRA",
+    "videoxl": "Videoxl",
 }
 
 
